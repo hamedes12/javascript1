@@ -16,6 +16,8 @@ b = 8;
 //c=b/a;
 c=b%a;
 
+  
+
 
 
 document.write(c);
