@@ -1,23 +1,16 @@
-var a,b,c;
-
-a = 12;
-b = 8;
-
-//c=a+b;
-//c=a-b;
-//c=a*b;
-//c=a/b;
-//c=a%b;
-
-
-//c=b+a;
-//c=b-a;
-//c=b*a;
-//c=b/a;
-c=b%a;
-
-  
 
 
 
-document.write(c);
+
+var a,b;
+var isEqual;
+ a=10;
+ b=5;
+
+
+
+a==b ? isEqual=true  :  isEqual=false;
+
+ console.log("the equal match is:"+isEqual)
+
+
